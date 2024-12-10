@@ -15,7 +15,7 @@ Imagen Realizada con IA
 
 ## [Conclusiones]()
 ## Mapa conceptual (Herramientas utilizada)
-## [Glosario (Desarrollo sostenible, Desempeño profesional en relación con la sostenibilidad, Desempeño personal en relación con la sostenibilidad, Educación ambiental,  Formación ambiental, Oportunidad medioambiental, prácticas sostenibles, Reto medioambiental)]()
+## [Glosario]()
 ## [Referencias]()
 ## Autores
 - Iván Palma Sierra
