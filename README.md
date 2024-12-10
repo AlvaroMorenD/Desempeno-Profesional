@@ -1,7 +1,7 @@
 # Desempeño Profesional
 ![desempeño](img/desempeño_profesional.jpg)
 --- 
-Imagen Realizada con IA
+(Imagen Realizada con IA)
 ## Índice
 1.1. [Introducción]()
 
