@@ -24,7 +24,7 @@ Cómo podemos observar estas acciones ayudarán al medio ambiente a reducir drá
 impacto en el medio ambiente, si todos aplicasemos estas prácticas, el medio ambiente sería más
 estable.
 
-![sostenible](sostenible.jpg)
+![sostenible](img/sostenible.jpg)
 [Imagen generada por IA](https://chatgpt.com/)
 
 [Referencia](https://sigmaearth.com/es/20-sustainability-practices-for-work-and-home/)
