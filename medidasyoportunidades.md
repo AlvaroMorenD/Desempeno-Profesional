@@ -1,11 +1,8 @@
 ## Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional.
 
-Ahora hablaremos sobre las medidas y oportunidades, estas son estrategias y acciones
-que podemos implementar tanto en nuestra vida diaria en el ámbito laboral, para así
-poder reducir el impacto ambiental y promover la sostenibilidad, de esta manera
-resolviendo problemas ambientales conocidos cómo por ejemplo el cambio climático,
-la contaminación o la pérdida de biodiversidad. Y aquí os pondremos unos ejemplos
-en el ámbito profesional y personal:
+Ahora hablaremos sobre las medidas y oportunidades, estas son son acciones personales y profesionales
+que buscan reducir el impacto ambiental y promover la sostenibilidad, contribuyendo a resolver problemas 
+como el cambio climático y la pérdida de biodiversidad. Y aquí os dejamos algunos ejemplos:
 
 🌱 **Entorno Personal**
 * Reducir, Reutilizar y reciclar para evitar desperdicios y separar residuos.
