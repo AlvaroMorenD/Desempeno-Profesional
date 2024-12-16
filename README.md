@@ -7,7 +7,7 @@
 
 1.2. [Desempeño profesional y personal](desempeño.md)
 
-1.3. [Riesgos y oportunidades que representan los ODS]()
+1.3. [Riesgos y oportunidades que representan los ODS](riesgos.md)
 
 1.4. [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional]()
 
