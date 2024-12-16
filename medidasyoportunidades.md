@@ -24,6 +24,5 @@ Estos serían muy buenos ejemplos sobre el entorno profesional y personal que ay
 al medio ambiente.
 
 ![profesionalypersonal](img/profesionalypersonal.jpg)
-
 [Imagen generada por IA](https://chatgpt.com/)
 
