@@ -9,7 +9,7 @@
 
 1.3. [Riesgos y oportunidades que representan los ODS](riesgos.md)
 
-1.4. [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional]()
+1.4. [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
 
 1.5. [Prácticas sostenibles en ele ambiente personal]()
 
