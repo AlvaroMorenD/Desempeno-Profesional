@@ -7,4 +7,5 @@ el impacto positivo de las acciones, de esta manera contribuyendo a los Objetivo
 Desarrollo Sostenible (los ODS), y en este proyecto hablaremos sobre ellos y varios 
 puntos más.
 
+(Imagen generada por IA)
 ![introduccion](img/introduccion.jpg)
