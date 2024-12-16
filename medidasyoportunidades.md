@@ -27,5 +27,7 @@ al medio ambiente.
 [Imagen generada por IA](https://chatgpt.com/)
 
 [Referencia1](https://www.un.org/sustainabledevelopment/es/)
+
 [Referencia2](https://www.worldwildlife.org/)
+
 [Referencia3](https://european-union.europa.eu/priorities-and-actions/actions-topic/environment_es)
