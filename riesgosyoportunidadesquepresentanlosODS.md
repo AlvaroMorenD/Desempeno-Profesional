@@ -18,4 +18,7 @@ del tema. A continuación los riesgos y sus oportunidades:
   de esta forma nos garantizará tener un futuro más sostenible y equitativo para las
   próximas generaciones que lleguen al planeta.
 
+![Oportunidades](img/oportunidades.jpg)
+
+[Referencia](https://somosiberoamerica.org/tribunas/agenda-2030-para-el-desarrollo-sostenible-7-riesgos-7-oportunidades/)
   
