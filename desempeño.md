@@ -22,5 +22,4 @@ nuestro planeta y nuestra sociedad.
 [Imagen generada por IA](https://chatgpt.com/)
 
 [Referencia1](https://www.gadisa.es/blog/desarrollo-profesional-sostenible-como-fomentarlo/)
-
 [Referencia2](https://www.thelemontreeeducation.com/el-mundo-sostenible-a-traves-de-tu-desarrollo-personal/)
