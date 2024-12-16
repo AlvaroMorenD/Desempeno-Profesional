@@ -23,4 +23,7 @@ como el cambio climático y la pérdida de biodiversidad. Y aquí os dejamos alg
 Estos serían muy buenos ejemplos sobre el entorno profesional y personal que ayudarían mucho
 al medio ambiente.
 
+![profesionalypersonal](img/profesionalypersonal.jpg)
+
+[Imagen generada por IA](https://chatgpt.com/)
 
