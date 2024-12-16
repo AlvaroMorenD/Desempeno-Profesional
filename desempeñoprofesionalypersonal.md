@@ -18,4 +18,5 @@ las suyas. Y a continuación pondremos un ejemplo de ambos.
 De esta manera nos aseguraremos de garantizar un impacto menor pero más positivo en
 nuestro planeta y nuestra sociedad.
 
-
+![desempeño](img/desempeño.jpg)
+[Imagen generada por IA](https://chatgpt.com/)
