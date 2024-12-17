@@ -15,6 +15,7 @@
 
 ## [Conclusiones]()
 ## [Mapa conceptual]()
+![mapa conceptual](img/mapa conceptual.jpg)
 Herramientas utilizada: 
 ## [Glosario]()
 Herramientas utilizada:
