@@ -27,4 +27,4 @@ estable.
 ![sostenible](img/sostenible.jpg)
 [Imagen generada por IA](https://chatgpt.com/)
 
-[Referencia](https://sigmaearth.com/es/20-sustainability-practices-for-work-and-home/)
+[SigmaEarth](https://sigmaearth.com/es/20-sustainability-practices-for-work-and-home/)

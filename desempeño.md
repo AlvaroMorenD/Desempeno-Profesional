@@ -21,5 +21,5 @@ nuestro planeta y nuestra sociedad.
 ![desempeño](img/desempeño.jpg)
 [Imagen generada por IA](https://chatgpt.com/)
 
-[Referencia1](https://www.gadisa.es/blog/desarrollo-profesional-sostenible-como-fomentarlo/)
-[Referencia2](https://www.thelemontreeeducation.com/el-mundo-sostenible-a-traves-de-tu-desarrollo-personal/)
+[Gadisa](https://www.gadisa.es/blog/desarrollo-profesional-sostenible-como-fomentarlo/)
+[The Lemon Tree Education](https://www.thelemontreeeducation.com/el-mundo-sostenible-a-traves-de-tu-desarrollo-personal/)
