@@ -13,7 +13,7 @@
 
 1.5. [Prácticas sostenibles en ele ambiente personal](practicas.md)
 
-## [Conclusiones]()
+## [Conclusiones](conclusiones.md)
 ## [Mapa conceptual]()
 
 ![mapa conceptual](img/MapaConceptual.jpg)
