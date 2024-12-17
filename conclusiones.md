@@ -2,3 +2,5 @@ En nuestra opinión, el desempeño profesional y personal debe enfocarse en prá
 
 
 ![holaa](img/epa.jpg)
+
+IMAGEN GENERADA POR IA
