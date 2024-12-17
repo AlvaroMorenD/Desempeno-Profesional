@@ -13,9 +13,12 @@
 
 1.5. [Prácticas sostenibles en ele ambiente personal](practicas.md)
 
-## [Conclusiones]()
+## [Conclusiones](conclusiones.md)
 ## [Mapa conceptual]()
-Herramientas utilizada: 
+
+![mapa conceptual](img/MapaConceptual.jpg)
+
+Herramientas utilizada: Canva
 ## [Glosario]()
 Herramientas utilizada:
 ## [Referencias]()

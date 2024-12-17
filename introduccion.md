@@ -1,6 +1,6 @@
 ## Introducción desempeño profesional
 
-El desempeño profesional es la capacidad de aplicar pprácticas responsables que así
+El desempeño profesional es la capacidad de aplicar prácticas responsables que así
 equilibren el desarrollo económico, la protección ambiental y también el bienestar social.
 Implica que hay que liderar con una ética, fomentar innovaciones sostenibles y así medir
 el impacto positivo de las acciones, de esta manera contribuyendo a los Objetivos de 
