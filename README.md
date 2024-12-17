@@ -14,14 +14,13 @@
 1.5. [Prácticas sostenibles en ele ambiente personal](practicas.md)
 
 ## [Conclusiones](conclusiones.md)
-## [Mapa conceptual]()
+## Mapa conceptual
 
 ![mapa conceptual](img/MapaConceptual.jpg)
 
 Herramientas utilizada: Canva
-## [Glosario]()
-Herramientas utilizada:
-## [Referencias]()
+## [Glosario](https://www.canva.com/design/DAGZi817Lt4/KCYOg_SMoZIh33hOJUNFGw/edit?utm_content=DAGZi817Lt4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Herramientas utilizada: Canva
 ## Autores
 - Iván Palma Sierra
 - Iker Cupillar Aliaga
