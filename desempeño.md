@@ -1,7 +1,7 @@
 ## Desempeño profesional y personal
 
 Básicamente el desempeño profesional y personal consiste en adoptar
-prácticas responsables de esta manera se podrá promover un equilibbrio 
+prácticas responsables de esta manera se podrá promover un equilibrio 
 entre el desarrollo económico social y ambiental. Esto incluye prácticas,
 decisiones y comportamientos que garantizan la satisfacción de las necesidades
 actuales sin comprometer la capacidad de las generaciones futuras para satisfacer
