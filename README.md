@@ -20,7 +20,7 @@
 
 Herramientas utilizada: Canva
 ## [Glosario]()
-Herramientas utilizada:
+Herramientas utilizada: Canva
 ## [Referencias]()
 ## Autores
 - Iván Palma Sierra
