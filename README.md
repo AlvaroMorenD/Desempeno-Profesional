@@ -18,7 +18,7 @@
 
 ![mapa conceptual](img/MapaConceptual.jpg)
 
-Herramientas utilizada: 
+Herramientas utilizada: Canva
 ## [Glosario]()
 Herramientas utilizada:
 ## [Referencias]()
